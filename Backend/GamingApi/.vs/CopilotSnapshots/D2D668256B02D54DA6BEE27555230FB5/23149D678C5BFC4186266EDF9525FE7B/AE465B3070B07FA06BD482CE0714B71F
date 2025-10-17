@@ -1,0 +1,19 @@
+﻿using DataAccessLayer.Entities;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+namespace GamingApi.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class UserController : ControllerBase
+    {
+        private readonly IUsers _user;
+
+        public UserController(IUsers user) { 
+            _user = user;
+        }
+
+
+    }
+}

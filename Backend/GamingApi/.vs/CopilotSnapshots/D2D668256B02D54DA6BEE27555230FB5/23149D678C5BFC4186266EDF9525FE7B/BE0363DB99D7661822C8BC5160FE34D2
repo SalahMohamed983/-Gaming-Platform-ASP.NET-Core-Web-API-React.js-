@@ -1,0 +1,35 @@
+﻿using Riok.Mapperly.Abstractions;
+using DataAccessLayer.Entities;
+
+namespace BusinessLayer.Mapper
+{
+    [Mapper]
+    public partial class GameMapper
+    {
+        public static partial GamesDto ToDto(Games game);
+        public static partial List<GamesDto> ToDtos(List<Games> games);
+        public static partial Games ToEntity(GamesDto dto);
+    }
+    
+    [Mapper]
+    public static partial class CategoryMapper
+    {
+        public static partial CategoryDto ToDto(Category category);
+        public static partial List<CategoryDto> ToDtos(List<Category> categories);
+        public static partial Category ToEntity(CategoryDto dto);
+    }
+
+    [Mapper]
+    public static partial class FavoritGamesMapper
+    {
+        public static partial FavoritGamesDto ToDto(FavoritGames favorit);
+        public static partial List<FavoritGamesDto> ToDtos(List<FavoritGames> favorits);
+        public static partial FavoritGames ToEntity(FavoritGamesDto dto);
+    }
+    [Mapper]
+    public static partial class UsersMapper
+    {
+        public static partial UsersDto ToDto(Users user);
+        public static partial Users ToEntity(UsersDto dto);
+    }
+}

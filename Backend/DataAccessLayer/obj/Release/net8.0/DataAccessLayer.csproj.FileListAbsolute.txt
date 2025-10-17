@@ -1,0 +1,14 @@
+E:\Gamingwebsite\Backend\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+E:\Gamingwebsite\Backend\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.runtimeconfig.json
+E:\Gamingwebsite\Backend\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+E:\Gamingwebsite\Backend\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\Gamingwebsite\Backend\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
